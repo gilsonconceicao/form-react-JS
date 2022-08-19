@@ -1,0 +1,2 @@
+# form-react-js
+  GNU nano 4.8                                                            Novo buffer                                                             Modificado   Formulário desenvolvido com React JS.  Utilizando as CSS modules para o estilo. Obtendo os dados inseridos e selecionados com o hook useState.  Utilização de eventos como onChange e onSubmit simulando um provável envio dos dados.  Validação simples dos dados vendo se estão preenchidos ou não.
