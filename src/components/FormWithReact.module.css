@@ -1,0 +1,48 @@
+.form-user-programmer {
+    background-color: #dee0e3;
+    color: #D92525;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px auto;
+    max-width: 400px;
+}
+
+.form-user-programmer h2 {
+    font-size: 2em;
+}
+
+.form-user-programmer input {
+    outline: none;
+    padding: 10px;
+    border: none;
+}
+
+.form-user-programmer input[type=submit] {
+    background-color: #D92525;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.form-user-programmer textarea {padding: 4px;}
+
+.form-user-programmer select {padding: 4px;}
+
+input, textarea, label, select {
+    width: 100%;
+    display: block;
+    margin: 10px 0;
+}
+
+.messageError, .messageSuccess {
+    color: #ffffff;
+    font-weight: bold;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+    width: 50%;
+    padding: 20px;
+    border-radius: 6px;
+}
+
+.messageSuccess { background-color: green; }
+.messageError { background-color: red; }
